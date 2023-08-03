@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-Site Link: https://qr-code-component-main-kohis-solution.vercel.app
+Site Link: https://order-summary-component-main-kohi-solution.vercel.app
 
 ### Built with
 
