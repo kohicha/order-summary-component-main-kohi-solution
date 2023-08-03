@@ -1,0 +1,10 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+@font-face {
+    font-family: RedHat;
+    src: url("design/Red_Hat_Display/RedHatDisplay-VariableFont_wght.ttf") format("truetype");
+  }
